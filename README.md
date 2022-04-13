@@ -11,4 +11,4 @@ I currently have reviews for the following certifications:
 - CSI Linux Certified OSINT Analyst
 - INE Certified Cloud Associate
 - ISC(2) Entry Level Certification
-- MITRE MAD (5 certs currently available; Fundamentals, CTI, Threat Hunting, Adversary Emulation, SOC Assessment)
+- MITRE MAD (4 certs currently available; CTI, Threat Hunting, Adversary Emulation, SOC Assessment)
